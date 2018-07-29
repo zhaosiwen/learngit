@@ -6,5 +6,4 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 test
 test2
-
 Git is a free software
